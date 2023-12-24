@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there 👋
 I'm Alexander from Costa Rica, a junior developer with experience in full-stack development. I've successfully contributed to a variety of applications and websites, showcasing my versatility in both front-end and back-end development. Additionally, I have experience in application development for both PC and Android platforms. My commitment to writing clean and efficient code is unwavering.
 
 
