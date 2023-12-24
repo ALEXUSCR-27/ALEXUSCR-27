@@ -12,12 +12,9 @@ I'm Alexander from Costa Rica, a junior developer with experience in full-stack 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALEXUSCR-27&theme=dark&hide_border=false" style="width: 55%;"> &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXUSCR-27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 39%;">
 </div>
-
 <br/>
 
-
-
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ALEXUSCR-27&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
