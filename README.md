@@ -10,7 +10,7 @@ I'm Alexander from Costa Rica, a junior developer with experience in full-stack 
 # 📊 GitHub Stats:
 <div style="width: 100%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALEXUSCR-27&theme=dark&hide_border=false" style="width: 55%;"> &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXUSCR-27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 40%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXUSCR-27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 39%;">
 </div>
 
 <br/>
