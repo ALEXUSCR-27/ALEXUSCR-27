@@ -1,5 +1,9 @@
 # Hi there 👋
-I'm Alexander from Costa Rica, a junior developer with experience in full-stack development. I've successfully contributed to a variety of applications and websites, showcasing my versatility in both front-end and back-end development. Additionally, I have experience in application development for both PC and Android platforms. My commitment to writing clean and efficient code is unwavering.
+I'm Alexander from Costa Rica, a junior developer with experience in full-stack development and application development for PC platforms, both on Windows and Linux distributions like Debian and Ubuntu.
+
+ I've participated in most of the development phases of a project, from planning to testing, implementing Agile methodologies like SCRUM to enhance project management and team productivity. Likewise, I have experience in vector and SQL databases management for efficient data retrieval and storage.
+
+My greatest motivation is to learn as much as possible from every situation, whether positive or negative, and I firmly believe that the practice makes the master.
 
 
 ## 🌐 Socials:
