@@ -30,6 +30,9 @@ My greatest motivation is to learn as much as possible from every situation, whe
      <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=ALEXUSCR&section=header&reversal=false&fontAlign=50&animation=fadeIn&fontAlignY=89&strokeWidth=0&descAlign=50&desc=ALX&descSize=45&descAlignY=50&fontColor=ffff"/>
 </p>
 
+</br>
+
+
 
 
 
