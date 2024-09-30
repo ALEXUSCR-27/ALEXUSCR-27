@@ -16,7 +16,7 @@ My greatest motivation is to learn as much as possible from every situation, whe
 <div style="width: 100%;">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ALEXUSCR-27&theme=transparent&hide_border=true&card_width=1050" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXUSCR-27&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Lex&langs_count=8" alt="Top Languages" style="width: 40%;">
- <img src="https://github-contributor-stats.vercel.app/api?username=ALEXUSCR-27&limit=3&theme=transparent&hide_border=true&combine_all_yearly_contributions=true">
+ <img src="https://github-contributor-stats.vercel.app/api?username=ALEXUSCR-27&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true&order_by=contributions">
 </div>
 
 <br/>
