@@ -1,9 +1,9 @@
 # Hi there 👋
-I'm Alexander from Costa Rica, a junior developer with experience in full-stack development and application development for PC platforms, both on Windows and Linux distributions like Debian and Ubuntu.
+I'm Alexander from Costa Rica, a junior developer with experience in full-stack web development and building applications for different PC platforms like Windows and Linux distributions.
 
- I've participated in most of the development phases of a project, from planning to testing, implementing Agile methodologies like SCRUM to enhance project management and team productivity. Likewise, I have experience in vector and SQL databases management for efficient data retrieval and storage.
+I have experience working in all phases of the software development lifecycle, from planning and design to testing and deployment, applying agile methodologies like SCRUM to optimize project management and team productivity. Additionally, I have experience working with vector databases and SQL for efficient data retrieval and storage solutions.
 
-My greatest motivation is to learn as much as possible from every situation, whether positive or negative, and I firmly believe that the practice makes the master.
+My greatest motivation is continuous learning, I see every experience, whether positive or challenging, as an opportunity to grow. I believe that mastery comes with practice, and I am always eager to refine my skills through hands-on experience.
 
 # 🌐 Socials & Activity:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-sánchez-céspedes-b660b721b)
