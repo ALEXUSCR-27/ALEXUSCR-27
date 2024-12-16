@@ -1,14 +1,14 @@
 ![Static Badge](https://img.shields.io/badge/Engineer%3C%3E-orange?label=Software&labelColor=%230d1117)
 
 <div style="width: 100%";>
-  <img src="https://github.com/ALEXUSCR-27/ALEXUSCR-27/banner.png">
+  <img src="banner.png">
 </div>
 
-I'm Alexander from Costa Rica, a junior developer with experience in full-stack web development and building applications for different PC platforms like Windows and Linux distributions.
+I'm Alexander from Costa Rica, a passionate junior software engineer with hands-on experience in full-stack web development and building applications for different PC platforms, including Windows and Linux distributions.
 
-I have experience working in all phases of the software development lifecycle, from planning and design to testing and deployment, applying agile methodologies like SCRUM to optimize project management and team productivity. Additionally, I have experience working with vector databases and SQL for efficient data retrieval and storage solutions.
+I have experience working in the different stages of the software development lifecycle, from planning and design to testing and deployment, applying agile methodologies like SCRUM to optimize project management and team productivity. Additionally, I have experience working with vector databases and SQL databases for efficient data retrieval and scalable storage solutions.
 
-My greatest motivation is continuous learning, I see every experience, whether positive or challenging, as an opportunity to grow. I believe that mastery comes with practice, and I am always eager to refine my skills through hands-on experience.
+My greatest motivation is continuous learning, I view every challenge as an opportunity to grow and improve my skills. For me, mastery is achieved through consistent practice.
 
 ## 🌐 Socials & Activity:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-sanchez-cespedes-b660b721b)
