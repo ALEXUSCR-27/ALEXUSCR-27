@@ -1,8 +1,5 @@
-![Static Badge](https://img.shields.io/badge/Engineer%3C%3E-orange?label=Software&labelColor=%230d1117)
+![Static Badge](https://img.shields.io/badge/Engineer%3C%3E-orange?style=flat&label=Software&labelColor=%230D1117)
 
-<div style="width: 100%";>
-  <img src="banner.png" height="250" width="900">
-</div>
 
 I'm Alexander from Costa Rica, a passionate junior software engineer with hands-on experience in full-stack web development and building applications for different PC platforms, including Windows and Linux distributions.
 
@@ -16,7 +13,7 @@ My greatest motivation is continuous learning, I view every challenge as an oppo
 
 ## 📊 GitHub Stats:
 <div style="width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXUSCR-27&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Lex&langs_count=8" alt="Top Languages" style="width: 40%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXUSCR-27&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Lex&langs_count=8" alt="Top Languages" style="width: 37%;">
  <img src="https://github-contributor-stats.vercel.app/api?username=ALEXUSCR-27&limit=4&theme=transparent&hide_border=true&combine_all_yearly_contributions=true&order_by=contributions">
 </div>
 
@@ -132,9 +129,6 @@ My greatest motivation is continuous learning, I view every challenge as an oppo
 </table>
 <br><br>
 </table>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=ALEXUSCR&section=header&reversal=false&fontAlign=50&animation=fadeIn&fontAlignY=89&strokeWidth=0&descAlign=50&desc=ALX&descSize=45&descAlignY=50&fontColor=ffff"/>
-</p>
 
 </br>
 
