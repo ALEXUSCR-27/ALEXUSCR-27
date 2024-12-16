@@ -1,28 +1,28 @@
-# Hi there 👋
+![Static Badge](https://img.shields.io/badge/Engineer%3C%3E-orange?label=Software&labelColor=%230d1117)
+
+<div style="width: 100%";>
+  <img src="https://github.com/ALEXUSCR-27/ALEXUSCR-27/banner.png">
+</div>
+
 I'm Alexander from Costa Rica, a junior developer with experience in full-stack web development and building applications for different PC platforms like Windows and Linux distributions.
 
 I have experience working in all phases of the software development lifecycle, from planning and design to testing and deployment, applying agile methodologies like SCRUM to optimize project management and team productivity. Additionally, I have experience working with vector databases and SQL for efficient data retrieval and storage solutions.
 
 My greatest motivation is continuous learning, I see every experience, whether positive or challenging, as an opportunity to grow. I believe that mastery comes with practice, and I am always eager to refine my skills through hands-on experience.
 
-# 🌐 Socials & Activity:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-sánchez-céspedes-b660b721b)
-[![](https://visitcount.itsvg.in/api?id=ALEXUSCR-27&icon=6&color=0)](https://visitcount.itsvg.in)
+## 🌐 Socials & Activity:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-sanchez-cespedes-b660b721b)
+[![](https://visitcount.itsvg.in/api?id=ALEXUSCR-27&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<br/>
-<br/>
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div style="width: 100%;">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ALEXUSCR-27&theme=transparent&hide_border=true&card_width=1050" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXUSCR-27&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Lex&langs_count=8" alt="Top Languages" style="width: 40%;">
- <img src="https://github-contributor-stats.vercel.app/api?username=ALEXUSCR-27&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true&order_by=contributions">
+ <img src="https://github-contributor-stats.vercel.app/api?username=ALEXUSCR-27&limit=4&theme=transparent&hide_border=true&combine_all_yearly_contributions=true&order_by=contributions">
 </div>
 
 <br/>
-<br/>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -132,8 +132,6 @@ My greatest motivation is continuous learning, I see every experience, whether p
 </table>
 <br><br>
 </table>
-
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=ALEXUSCR&section=header&reversal=false&fontAlign=50&animation=fadeIn&fontAlignY=89&strokeWidth=0&descAlign=50&desc=ALX&descSize=45&descAlignY=50&fontColor=ffff"/>
 </p>
