@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Engineer%3C%3E-orange?label=Software&labelColor=%230d1117)
 
 <div style="width: 100%";>
-  <img src="banner.png">
+  <img src="banner.png" height="250" width="900">
 </div>
 
 I'm Alexander from Costa Rica, a passionate junior software engineer with hands-on experience in full-stack web development and building applications for different PC platforms, including Windows and Linux distributions.
