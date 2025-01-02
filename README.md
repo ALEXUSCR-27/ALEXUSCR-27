@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Engineer%3C%3E-orange?style=flat&label=Software&labelColor=%230D1117)
 
 
-I'm Alexander from Costa Rica, a passionate junior software engineer with hands-on experience in full-stack web development and building applications for different PC platforms, including Windows and Linux distributions.
+I'm Alexander from Costa Rica, a junior software engineer with hands-on experience in full-stack web development and building applications for Windows and Linux distributions.
 
 I have experience working in the different stages of the software development lifecycle, from planning and design to testing and deployment, applying agile methodologies like SCRUM to optimize project management and team productivity. Additionally, I have experience working with vector databases and SQL databases for efficient data retrieval and scalable storage solutions.
 
