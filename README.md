@@ -1,9 +1,9 @@
 <h1 align="right">Alexander Sánchez Céspedes</h1>
-
+<!--
 <p align="right">
   <img src="https://img.shields.io/badge/Engineer%3C%3E-orange?style=flat&label=Software&labelColor=%230D1117" alt="Static Badge">
 </p>
-
+-->
 <p align="right">
   <img src="title.svg" alt="Texto animado">
 </p>
