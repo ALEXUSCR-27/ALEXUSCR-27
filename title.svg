@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="100">
   <style>
     text {
       fill: #FF6600;
-      font-size: 48px;
+      font-size: 24px;
       font-family: Arial, sans-serif;
       animation: colorChange 3s infinite alternate;
     }
@@ -13,5 +13,5 @@
     }
   </style>
 
-  <text x="10" y="60">Hola, mundo!</text>
+  <text x="10" y="60">Computing &amp; Software Engineer</text>
 </svg>
