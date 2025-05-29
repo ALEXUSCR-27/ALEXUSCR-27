@@ -1,37 +1,17 @@
-<svg width="1151.36" height="68.88" viewBox="0 0 1151.36 68.88" xmlns="http://www.w3.org/2000/svg">
-	<style>
-		@-webkit-keyframes svg-text-anim {
-	       40% {
-	          stroke-dashoffset: 0;
-	          fill: transparent;
-	        }
-	        60% {
-	          stroke-dashoffset: 0;
-	          fill: #ffa500;
-	        }
-	        100% {
-	          stroke-dashoffset: 0;
-	          fill: #ffa500;
-	        }
-	        
-	    }
-	    /* Most browsers */
-	    @keyframes svg-text-anim {
-	       40% {
-	          stroke-dashoffset: 0;
-	          fill: transparent;
-	        }
-	        60% {
-	          stroke-dashoffset: 0;
-	          fill: #ffa500;
-	        }
-	        100% {
-	          stroke-dashoffset: 0;
-	          fill: #ffa500;
-	        }
-	        
-	    }
-	</style>
-	<svg-text-anim x="10" y="40">hola</svg-text-anim>
-	
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80">
+  <style>
+    text {
+      fill: #FF6600;
+      font-size: 48px;
+      font-family: Arial, sans-serif;
+      animation: colorChange 3s infinite alternate;
+    }
+
+    @keyframes colorChange {
+      0% { fill: #FF6600; }
+      100% { fill: #0066FF; }
+    }
+  </style>
+
+  <text x="10" y="60">Hola, mundo!</text>
 </svg>
