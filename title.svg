@@ -3,8 +3,8 @@
     <linearGradient id="grad" x1="-50%" y1="0%" x2="150%" y2="0%">
       <stop offset="0%" stop-color="#FF6600" />
       <stop offset="35%" stop-color="#FF6600" />
-      <stop offset="45%" stop-color="#0066FF" />
-      <stop offset="55%" stop-color="#0066FF" />
+      <stop offset="45%" stop-color="#0D1117" />
+      <stop offset="55%" stop-color="#0D1117" />
       <stop offset="65%" stop-color="#FF6600" />
       <stop offset="100%" stop-color="#FF6600" />
       <animate attributeName="x1" values="-50%;150%" dur="6s" repeatCount="indefinite" />
