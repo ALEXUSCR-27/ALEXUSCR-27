@@ -1,17 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="100">
-  <style>
-    text {
-      fill: #FF6600;
-      font-size: 24px;
-      font-family: Arial, sans-serif;
-      animation: colorChange 3s infinite alternate;
-    }
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="40" viewBox="0 0 360 40">
+  <defs>
+    <linearGradient id="grad" x1="-50%" y1="0%" x2="150%" y2="0%">
+      <stop offset="0%" stop-color="#FF6600" />
+      <stop offset="35%" stop-color="#FF6600" />
+      <stop offset="45%" stop-color="#0066FF" />
+      <stop offset="55%" stop-color="#0066FF" />
+      <stop offset="65%" stop-color="#FF6600" />
+      <stop offset="100%" stop-color="#FF6600" />
+      <animate attributeName="x1" values="-50%;150%" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="50%;250%" dur="6s" repeatCount="indefinite" />
+    </linearGradient>
+  </defs>
 
-    @keyframes colorChange {
-      0% { fill: #FF6600; }
-      100% { fill: #0066FF; }
-    }
-  </style>
-
-  <text x="10" y="60">Computing &amp; Software Engineer</text>
+  <text x="10" y="28" font-family="'Ubuntu Mono', monospace" font-size="20" fill="url(#grad)">
+    Computing &amp; Software Engineer
+  </text>
 </svg>
