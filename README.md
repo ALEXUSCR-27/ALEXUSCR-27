@@ -4,7 +4,9 @@
   <img src="https://img.shields.io/badge/Engineer%3C%3E-orange?style=flat&label=Software&labelColor=%230D1117" alt="Static Badge">
 </p>
 
-<img src="title.svg" alt="Texto animado">
+<p align="right">
+  <img src="title.svg" alt="Texto animado">
+</p>
 
 
 I'm Alexander from Costa Rica, a Full-Stack software engineer with experience in creating and maintaining software applications for Windows and Linux distributions.
