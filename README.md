@@ -1,4 +1,10 @@
-![Static Badge](https://img.shields.io/badge/Engineer%3C%3E-orange?style=flat&label=Software&labelColor=%230D1117)
+<h1 align="right">Alexander Sánchez Céspedes</h1>
+
+<p align="right">
+  <img src="https://img.shields.io/badge/Engineer%3C%3E-orange?style=flat&label=Software&labelColor=%230D1117" alt="Static Badge">
+</p>
+
+<img src="title.svg" alt="Texto animado">
 
 
 I'm Alexander from Costa Rica, a Full-Stack software engineer with experience in creating and maintaining software applications for Windows and Linux distributions.
@@ -7,9 +13,11 @@ I have experience working in the different stages of the software development li
 
 My greatest motivation is continuous learning, I view every challenge as an opportunity to grow and improve my skills. For me, mastery is achieved through consistent practice.
 
-## 🌐 Socials & Activity:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-sanchez-cespedes-b660b721b)
-[![](https://visitcount.itsvg.in/api?id=ALEXUSCR-27&icon=5&color=1)](https://visitcount.itsvg.in)
+## 🌐 Socials:
+[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-sanchez-cespedes-b660b721b)
+[![](https://img.shields.io/badge/alexuscr.app-orange?style=flat&labelColor=%238d0c0c)](https://alexuscr.netlify.app/)
+
+
 
 ## 📊 GitHub Stats:
 <div style="width: 100%;">
