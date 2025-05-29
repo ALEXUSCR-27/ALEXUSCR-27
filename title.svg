@@ -12,7 +12,7 @@
     </linearGradient>
   </defs>
 
-  <text x="10" y="28" font-family="'Ubuntu Mono', monospace" font-size="20" fill="url(#grad)">
+  <text x="10" y="28" font-family="'Ubuntu Mono', monospace" font-size="15" fill="url(#grad)">
     Computing &amp; Software Engineer
   </text>
 </svg>
